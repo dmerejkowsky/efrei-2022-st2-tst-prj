@@ -21,7 +21,7 @@ You will be using a web application (Human Relations Database Manager), or hr-db
 
 There a 16 instances deployed on `https://hr.dmerej.info` - each team has its own instance. Please only use your instance!
 
-Each instance shares the same code, and the production code is intentionally buggy (at least 3 bugs, probably more ...)
+Each instance shares the same code, and the production code is intentionally buggy (at least 3 bugs, probably more)
 
 During the project, you will be testing the web application using various techniques:
 
@@ -29,13 +29,14 @@ During the project, you will be testing the web application using various techni
 * Acceptance testing: writing end-to-end tests using selenium or playwright
 * Unit testing: when you'll have access to the source code
 
+You should choose one language among *Python, Javascript, Java, C#* and stick with it for the duration of the project
+
 ## Grading
 
 There will be several kind of deliveries:
 
-* A log
-* Test code
-* Other deliveries, depending on the sessions
+* A log that you should update at every session with your actions, what you tried, what you learned, and so on.
+* Some test code
 
 The log will be graded on:
 
@@ -47,7 +48,7 @@ The test code will be graded:
 * quality of the code - test code should be easy to read, write and maintain
 * coverage of the test code
 
-The deliveries will be graded on how much you followed the specifications
+In addition, you will have to produce other deliveries depending on the session.
 
 ## Specifications for the HR database
 
@@ -65,8 +66,8 @@ yourselves without any indication.*
 
 At the minimum, a test plan should contain:
 
-* a template with the lists of tests
-* several "runs", each generated from the template, each containing a date and the outcome of the tests
+* a template with the lists of tests, each containing an *id* and a *description*
+* several "runs", each generated from the template, each containing a *date* and the *outcome* of each test (*pass* or *fail*).
 
 ### Run the test plan
 
@@ -76,10 +77,10 @@ Find as many bugs as possible.
 
 ### Add bugs to a bug tracker
 
-1. Set up a bug tracker. You may use the built-in issue tracke of GitHub or GitLab
+1. Set up a bug tracker. You may use the built-in issue tracker of GitHub or GitLab for instance
 2. Add all the bugs you found during the first run of the test plan to the tracker
-3. Send me the bug tracker link by email
-
+3. Send me the link to the bug tracker link by email
+.
 ## Session 2
 
 1. Wait for the next release of the web application.
