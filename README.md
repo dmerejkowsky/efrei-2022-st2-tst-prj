@@ -11,6 +11,8 @@ in this repository.
 ## Rules
 
 * Be nice!
+* Do *not* do load testing - all the instances share the same server, and that
+  culd prevent other teams from working on the project ...
 * Tell me when you think something is wrong
 * No plagiarism. You can use code written by someone else, but in that case, make it clear when it comes from (URL if you find it online, name of the team/person if you borrowed the code from an other team)
 
