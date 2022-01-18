@@ -57,9 +57,12 @@ In addition, you will have to produce other deliveries depending on the session.
 
 ## Sequence 1
 
-*Note: as an exception to the rule, you should not interact with other
+*Note1: as an exception to the rule, you should not interact with other
 teams during this session. I want to see how many bugs you can find by
 yourselves without any indication.*
+
+*Note2: technically, address, emails and the like are personal data and are thus
+protected by the law. Only put *fictional* data in the db when doing your tests!*
 
 
 ### Design a test plan.
