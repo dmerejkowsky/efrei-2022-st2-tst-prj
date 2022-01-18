@@ -55,7 +55,7 @@ In addition, you will have to produce other deliveries depending on the session.
 * Every field concerning the Employee information is mandatory
 * The zip code of any address should be an integer
 
-## Session 1
+## Sequence 1
 
 *Note: as an exception to the rule, you should not interact with other
 teams during this session. I want to see how many bugs you can find by
@@ -80,8 +80,8 @@ Find as many bugs as possible.
 1. Set up a bug tracker. You may use the built-in issue tracker of GitHub or GitLab for instance
 2. Add all the bugs you found during the first run of the test plan to the tracker
 3. Send me the link to the bug tracker link by email
-.
-## Session 2
+
+## Sequence 2
 
 1. Wait for the next release of the web application.
 2. Run a second test plan
