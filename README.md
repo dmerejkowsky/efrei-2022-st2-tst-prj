@@ -12,7 +12,7 @@ in this repository.
 
 * Be nice!
 * Do *not* do load testing - all the instances share the same server, and that
-  culd prevent other teams from working on the project ...
+  could prevent other teams from working on the project ...
 * Tell me when you think something is wrong
 * No plagiarism. You can use code written by someone else, but in that case, make it clear when it comes from (URL if you find it online, name of the team/person if you borrowed the code from an other team)
 
@@ -31,7 +31,7 @@ During the project, you will be testing the web application using various techni
 * Acceptance testing: writing end-to-end tests using selenium or playwright
 * Unit testing: when you'll have access to the source code
 
-You should choose one language among *Python, Javascript, Java, C#* and stick with it for the duration of the project
+You should choose one language among *Python, JavaScript, Java, C#* and stick with it for the duration of the project
 
 ## Grading
 
@@ -57,7 +57,7 @@ In addition, you will have to produce other deliveries depending on the session.
 * Every field concerning the Employee information is mandatory
 * The zip code of any address should be an integer
 
-## Sequence 1
+## Sequence 1 - first run of manual testing
 
 *Note1: as an exception to the rule, you should not interact with other
 teams during this session. I want to see how many bugs you can find by
@@ -86,9 +86,16 @@ Find as many bugs as possible.
 2. Add all the bugs you found during the first run of the test plan to the tracker
 3. Send me the link to the bug tracker link by email
 
-## Sequence 2
+## Sequence 2 - second run of manual testing
 
 1. Wait for the next release of the web application.
 2. Run a second test plan
 3. Update the bug tracker accordingly
 4. Send me the bug tracker link by email
+
+## Sequence 3 - test automation with Playwright
+
+1. Choose one of the languages supported by [playwright](https://playwright.dev/) -
+   TypeScript, JavaScript, Python, .Net, Java
+1. Install a web driver
+1. Start to automate tests from the last sequence, but *take your time*.
