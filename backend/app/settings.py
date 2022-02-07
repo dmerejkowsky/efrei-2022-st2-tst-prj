@@ -46,6 +46,9 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
+if DEBUG:
+    MIDDLEWARE.remove("django.middleware.csrf.CsrfViewMiddleware")
+
 ROOT_URLCONF = "app.urls"
 
 TEMPLATES = [
