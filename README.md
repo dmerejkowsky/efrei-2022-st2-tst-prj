@@ -106,4 +106,4 @@ Find as many bugs as possible.
 1. Follow the instructions in backend/README.md to setup and run the Python backend
 1. Write some tests by making HTTP requests directly
 1. Consider what it would take to use white-box testing
-1. Can you think of other ideas to reduce the number of bugs in this applications?
+1. Can you think of other ideas to reduce the number of bugs in this application?
