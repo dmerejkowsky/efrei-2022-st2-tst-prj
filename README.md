@@ -104,6 +104,8 @@ Find as many bugs as possible.
 ## Sequence 4 - using the backend code
 
 1. Follow the instructions in backend/README.md to setup and run the Python backend
-1. Write some tests by making HTTP requests directly
+1. Choose a library in the same language you used for playwright to make http requests
+1. Choose a library in the same language you used for playwright to query the sqlite db
+1. Write some tests by making HTTP requests directly and querying the db
 1. Consider what it would take to use white-box testing
 1. Can you think of other ideas to reduce the number of bugs in this application?
