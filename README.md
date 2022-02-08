@@ -109,3 +109,8 @@ Find as many bugs as possible.
 1. Write some tests by making HTTP requests directly and querying the db
 1. Consider what it would take to use white-box testing
 1. Can you think of other ideas to reduce the number of bugs in this application?
+
+## Finale
+
+* What do you think of the various strategies we used during the 4 sequences?
+* Can you list their pros and cons?
