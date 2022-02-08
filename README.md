@@ -112,5 +112,5 @@ Find as many bugs as possible.
 
 ## Finale
 
-* What do you think of the various strategies we used during the 4 sequences?
+* What do you think of the various testing strategies we used during the 4 sequences?
 * Can you list their pros and cons?
